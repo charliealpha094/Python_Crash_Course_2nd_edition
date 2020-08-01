@@ -1,3 +1,6 @@
+#Done by Carlos Amaral in 15/06/2020
+
+
 Dream_places = ['Douro', 'Tokyo', 'Nassau', 'Monaco', 'Greece', 'Thailand']
 print(Dream_places)
 
