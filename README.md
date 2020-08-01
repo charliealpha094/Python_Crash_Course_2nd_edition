@@ -1,2 +1,2 @@
 # Python_Crash_Course_2nd_edition
-Solutions for the problems contained in "python crash course" 2n edition book 
+My solutions for the problems contained in Eric Matthe's "python crash course" 2nd edition book.
