@@ -14,7 +14,7 @@ Patricia = {
     'last_name': 'Soares',
     'age': '33',
     'city': 'Viseu'    
-}
+    }
 print(Patricia['first_name'])
 print(Patricia['last_name'])
 print(Patricia['age'])
