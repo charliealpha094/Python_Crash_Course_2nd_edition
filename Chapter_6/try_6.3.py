@@ -21,7 +21,7 @@ programming_words = {
     'comment': 'A note in source code that only the human reads',
     'input': 'A function which lets you ask a user for some text input',
     'dictionary': 'A collection of pair of values',
-}
+    }
 
 function = 'String'
 print(function.title() + ":")
