@@ -19,8 +19,8 @@ def make_car(manufacturer, model, **car_info):
     return car_info
 
 car_dictionary = make_car('Mitsubishi', 'Pajero', 
-                            color = 'majorca black',
-                            year = '1992' )
+                            color='majorca black',
+                            year='1992' )
 print(car_dictionary)
 
 
