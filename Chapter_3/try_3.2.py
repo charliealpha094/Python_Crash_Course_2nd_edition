@@ -7,16 +7,16 @@ sage should be the same, but each message should be personalized with the
 person’s name.
 """
 
-friends=['Rita', 'Catarina', 'Emilia', 'Patrícia']
+friends = ['Rita', 'Catarina', 'Emilia', 'Patrícia']
 
-message= "Hello, " + friends[0].title() +"!!!"
+message = "Hello, " + friends[0].title() + "!!!"
 print(message)
 
-message= "Hello, " +friends[1].title() + "!!!"
+message = "Hello, " +friends[1].title() + "!!!"
 print(message)
 
-message= "Hello, " + friends[2].title() + "!!!"
+message = "Hello, " + friends[2].title() + "!!!"
 print(message)
 
-message= "Hello, " + friends[3].title() + "!!!"
+message = "Hello, " + friends[3].title() + "!!!"
 print (message)
